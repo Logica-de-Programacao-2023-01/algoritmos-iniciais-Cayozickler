@@ -1,0 +1,7 @@
+leia lista 
+leia tamanho da lista 
+var soma = 0
+para cada elemento da lista faca:
+soma = elementos + soma
+media = soma/tamanho da ista 
+escrever media 
